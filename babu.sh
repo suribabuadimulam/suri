@@ -1,1 +1,1 @@
-echo "how are you"
+echo "this is test purpose only"
